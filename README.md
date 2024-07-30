@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, and software development.
 - 🌱 I’m currently learning advanced machine learning techniques and data analysis with Python.
 - 💞️ I’m looking to collaborate on open-source projects related to AI and data visualization.
-- 📫 How to reach me: You can reach me via email at sema1907@gmail.com or through my LinkedIn profile.
+- 📫 How to reach me: You can reach me via email at sema1907@gmail.com or through my LinkedIn profile.www.linkedin.com/in/sema-ugur-7o11
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love learning new things and exploring new technologies.
 
